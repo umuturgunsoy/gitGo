@@ -1,0 +1,6 @@
+package main
+
+const (
+	T string = "yourAccessToken"
+	U string = "yourLocalGitUrl"
+)
